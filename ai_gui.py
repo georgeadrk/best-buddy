@@ -323,7 +323,7 @@ send_btn.pack(side=tk.RIGHT)
 apply_theme()
 refresh_sidebar()
 
-# Start with a new chat so it's instantly usable!
+# Start with a new chat so it's instantly usable
 new_chat()
 
 root.mainloop()
